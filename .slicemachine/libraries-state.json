@@ -1,5 +1,76 @@
 {
   "slices": {
-    "components": {}
+    "components": {
+      "hero_slice1": {
+        "library": "slices",
+        "id": "hero_slice1",
+        "name": "HeroSlice1",
+        "description": "HeroSlice1",
+        "model": {
+          "id": "hero_slice1",
+          "type": "SharedSlice",
+          "name": "HeroSlice1",
+          "description": "HeroSlice1",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "HeroSlice1",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "heading1",
+                    "label": "Title",
+                    "placeholder": "This is where it all begins..."
+                  }
+                },
+                "description": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "paragraph",
+                    "label": "Description",
+                    "placeholder": "A nice description of your feature"
+                  }
+                }
+              },
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "name": "Default",
+            "slice_type": "hero_slice1",
+            "items": [],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading1",
+                  "text": "Leverage sticky networks",
+                  "spans": []
+                }
+              ],
+              "description": [
+                {
+                  "type": "paragraph",
+                  "text": "Dolor enim enim magna in amet tempor tempor tempor consectetur commodo non irure labore aute ad. Aute id et officia aliquip amet in elit. In consequat et dolor culpa proident ex consectetur aliqua ad excepteur.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      }
+    }
   }
 }
