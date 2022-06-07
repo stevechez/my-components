@@ -1,0 +1,37 @@
+{
+  "id": "bf7f1a0b-f7ae-456e-9a61-5ecb1e0639d7",
+  "uid": "voluptate-eos-consectetur",
+  "type": "myHero1",
+  "data": {
+    "topTitle": [
+      {
+        "type": "paragraph",
+        "text": "Magna ea mollit dolore minim sint nostrud officia irure commodo tempor adipisicing consectetur est nisi. Dolore dolor tempor qui culpa et ad sunt adipisicing fugiat sit culpa ad id do labore. Ut deserunt incididunt nulla officia consequat.",
+        "spans": []
+      }
+    ],
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "In ea fugiat quis nulla commodo dolor occaecat anim id dolore qui.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Magna tempor aute officia anim qui Lorem aliquip exercitation incididunt.",
+        "spans": []
+      }
+    ],
+    "contentImage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=900&h=500&fit=crop"
+    }
+  }
+}
