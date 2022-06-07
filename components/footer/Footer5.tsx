@@ -1,7 +1,7 @@
 import React from 'react'
 import type { NextPage } from 'next'
 
-const Footer4: NextPage = () => {
+const Footer5: NextPage = () => {
   return (
     <>
       <section className="bg-gray-50">
@@ -315,4 +315,4 @@ const Footer4: NextPage = () => {
   )
 }
 
-export default Footer4
+export default Footer5
