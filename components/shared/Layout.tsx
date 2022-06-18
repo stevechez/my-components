@@ -1,10 +1,10 @@
 import React, { FC } from 'react'
-import Header2 from '../header/Header2'
+import Header4 from '../header/Header4'
 import Footer8 from '../footer/Footer8'
 
 const Layout: FC<any> = ({ children }) => (
   <>
-    <Header2 />
+    <Header4 />
     <main>{children}</main>
     <Footer8 />
   </>

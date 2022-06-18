@@ -1,10 +1,10 @@
 import type { NextPage } from 'next'
-import Cta1 from '../components/cta/Cta1'
+import Cta9 from '../components/cta/Cta9'
 
 const Cta: NextPage = () => {
   return (
     <>
-      <Cta1 />
+      <Cta9 />
     </>
   )
 }
