@@ -21,8 +21,8 @@ const Features1: NextPage = () => {
           </div>
 
           <div className="z-10 grid gap-5 md:grid-cols-6 lg:grid-cols-9">
-            {/* <!-- Feature 1 --> */}
-            <div className="col-span-3 font-sans text-gray-700 bg-gray-50 rounded-3xl">
+            {/* <!-- Feature 1 --> */}stestse tset
+            <div className="col-span-3 font-sans text-gray-700 bg-gray-50 rounded-3xl hover:bg-amber-400 hover:text-white">
               <div className="box-border flex flex-col items-start h-full px-2 py-8 mx-4 leading-6 text-center border-solid sm:flex-row sm:items-start sm:text-left">
                 <div className="flex-shrink-0 p-3 font-sans text-gray-700 border border-gray-200 rounded-full">
                   <svg
@@ -82,8 +82,8 @@ const Features1: NextPage = () => {
               </div>
             </div>
             {/* <!-- Feature 3 --> */}
-            <div className="col-span-3 font-sans text-gray-700 bg-gray-50 rounded-3xl">
-              <div className="box-border flex flex-col items-start h-full px-2 py-8 mx-4 leading-6 text-center border-solid sm:flex-row sm:items-start sm:text-left">
+            <div className="col-span-3 font-sans text-gray-700 bg-gray-50 rounded-3xl ">
+              <div className="box-border flex flex-col items-start h-full px-2 py-8 mx-4 leading-6 text-center border-solid sm:flex-row sm:items-start sm:text-left ">
                 <div className="flex-shrink-0 p-3 font-sans text-gray-700 border border-gray-200 rounded-full">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
