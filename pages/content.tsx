@@ -1,10 +1,10 @@
 import type { NextPage } from 'next'
-import Content3 from '../components/content/Content3'
+import Content1 from '../components/content/Content1'
 
 const Content: NextPage = () => {
   return (
     <>
-      <Content3 />
+      <Content1 />
     </>
   )
 }
